@@ -1,4 +1,6 @@
+___
 # Machine Learning
+___
 
 - ## Linear Regression
 1. [Linear Regression for predicting Google Stock Prices](https://nbviewer.jupyter.org/github/subhamsarangi/ml/blob/master/1.%20Linear%20Regression/reg1.ipynb)
