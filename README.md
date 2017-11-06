@@ -8,5 +8,24 @@
 - ## Logistic Regression
 1. [Logistic Regression for understanding disaster Survival](https://nbviewer.jupyter.org/github/subhamsarangi/ml/blob/master/2.%20Logistic%20Regression/Logistic%20Regression.ipynb)
 
+- ## K Nearest Neighbors
+1. [K Nearest Neighbors](#)
+
+- ## Decision Tree
+1. [Decision Tree](#)
+
+- ## Support Vector Machine
+1. [Support Vector Machine]()
+
 - ## Clustering
-1. [k-Means Clustering](https://nbviewer.jupyter.org/github/subhamsarangi/ml/blob/master/3.%20Clustering/1.%20k%20-Means%20clustering.ipynb)
+1. [k-Means Clustering](https://nbviewer.jupyter.org/github/subhamsarangi/ml/blob/master/7.%20Clustering/1.%20k%20-Means%20clustering.ipynb)
+
+- ## Dimentionality Reduction
+
+- ## Ensemble Learning
+
+- ## Model Evaluation
+
+- ## Recommender System
+
+- ## Deep Learning
