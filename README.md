@@ -7,3 +7,6 @@
 
 - ## Logistic Regression
 1. [Logistic Regression for understanding disaster Survival](https://nbviewer.jupyter.org/github/subhamsarangi/ml/blob/master/2.%20Logistic%20Regression/Logistic%20Regression.ipynb)
+
+- ## Clustering
+1. [k-Means Clustering](https://nbviewer.jupyter.org/github/subhamsarangi/ml/blob/master/3.%20Clustering/1.%20k%20-Means%20clustering.ipynb)
