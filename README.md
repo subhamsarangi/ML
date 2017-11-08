@@ -16,7 +16,7 @@ ___
 2. [K Nearest Neighbors for detecting Breast Cancer](https://nbviewer.jupyter.org/github/subhamsarangi/ml/blob/master/3.%20K%20Nearest%20Neighbors/1.2%20K%20Nearest%20Neighbors%20(KNN).ipynb)
 
 - ## Decision Tree
-1. [Decision Tree](#)
+1. [Decision Tree](https://nbviewer.jupyter.org/github/subhamsarangi/ml/blob/master/4.%20Decision%20Tree/Decision%20Tree.ipynb)
 
 - ## Support Vector Machine
 1. [Support Vector Machine]()
