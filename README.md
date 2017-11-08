@@ -11,7 +11,8 @@ ___
 1. [Logistic Regression for understanding disaster Survival](https://nbviewer.jupyter.org/github/subhamsarangi/ml/blob/master/2.%20Logistic%20Regression/Logistic%20Regression.ipynb)
 
 - ## K Nearest Neighbors
-1. [K Nearest Neighbors](#)
+1. [K Nearest Neighbors](https://nbviewer.jupyter.org/github/subhamsarangi/ml/blob/master/3.%20K%20Nearest%20Neighbors/1.1%20K%20Nearest%20Neighbors%20(KNN).ipynb)
+2. [K Nearest Neighbors for detecting Breast Cancer](https://nbviewer.jupyter.org/github/subhamsarangi/ml/blob/master/3.%20K%20Nearest%20Neighbors/1.2%20K%20Nearest%20Neighbors%20(KNN).ipynb)
 
 - ## Decision Tree
 1. [Decision Tree](#)
