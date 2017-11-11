@@ -16,10 +16,11 @@ ___
 2. [K Nearest Neighbors for detecting Breast Cancer](https://nbviewer.jupyter.org/github/subhamsarangi/ml/blob/master/3.%20K%20Nearest%20Neighbors/1.2%20K%20Nearest%20Neighbors%20(KNN).ipynb)
 
 - ## Decision Tree
-1. [Decision Tree](https://nbviewer.jupyter.org/github/subhamsarangi/ml/blob/master/4.%20Decision%20Tree/Decision%20Tree.ipynb)
+1. [Decision Tree #1](https://nbviewer.jupyter.org/github/subhamsarangi/ml/blob/master/4.%20Decision%20Tree/1.1%20Decision%20Tree.ipynb)
+2. [Decision Tree #2](https://nbviewer.jupyter.org/github/subhamsarangi/ml/blob/master/4.%20Decision%20Tree/1.2%20Decision%20Tree.ipynb)
 
 - ## Support Vector Machine
-1. [Support Vector Machine]()
+1. [Support Vector Machine](https://nbviewer.jupyter.org/github/subhamsarangi/ml/blob/master/5.%20SVM/1.1%20svm.ipynb)
 
 - ## Clustering
 1. [k-Means Clustering](https://nbviewer.jupyter.org/github/subhamsarangi/ml/blob/master/7.%20Clustering/1.%20k%20-Means%20clustering.ipynb)
