@@ -16,8 +16,9 @@ ___
 2. [K Nearest Neighbors for detecting Breast Cancer](https://nbviewer.jupyter.org/github/subhamsarangi/ml/blob/master/3.%20K%20Nearest%20Neighbors/1.2%20K%20Nearest%20Neighbors%20(KNN).ipynb)
 
 - ## Decision Tree
-1. [Decision Tree #1](https://nbviewer.jupyter.org/github/subhamsarangi/ml/blob/master/4.%20Decision%20Tree/1.1%20Decision%20Tree.ipynb)
-2. [Decision Tree #2](https://nbviewer.jupyter.org/github/subhamsarangi/ml/blob/master/4.%20Decision%20Tree/1.2%20Decision%20Tree.ipynb)
+1. [Decision Tree for detecting Kyphosis](https://nbviewer.jupyter.org/github/subhamsarangi/ml/blob/master/4.%20Decision%20Tree/1.1%20Decision%20Tree.ipynb)
+2. [Decision Tree on randomly-generated data](https://nbviewer.jupyter.org/github/subhamsarangi/ml/blob/master/4.%20Decision%20Tree/1.2%20Decision%20Tree.ipynb)
+3. [Random Forest for detecting Kyphosis](https://nbviewer.jupyter.org/github/subhamsarangi/ml/blob/master/4.%20Decision%20Tree/2.%20Random%20Forest.ipynb)
 
 - ## Support Vector Machine
 1. [Support Vector Machine](https://nbviewer.jupyter.org/github/subhamsarangi/ml/blob/master/5.%20SVM/1.1%20svm.ipynb)
