@@ -23,7 +23,7 @@ ___
 3. [Random Forest for detecting Kyphosis](https://nbviewer.jupyter.org/github/subhamsarangi/ml/blob/master/04.%20Decision%20Tree/2.%20Random%20Forest.ipynb)
 
 - ## Support Vector Machine
-1. [Support Vector Machine](https://nbviewer.jupyter.org/github/subhamsarangi/ml/blob/master/05.%20SVM/1.1%20Support%20Vector%20Machine.ipynb)
+1. [Support Vector Machine](https://nbviewer.jupyter.org/github/subhamsarangi/ml/blob/master/05.%20Support%20Vector%20Machine/1.1%20Support%20Vector%20Machine.ipynb)
 
 - ## Clustering
 1. [k-Means Clustering](https://nbviewer.jupyter.org/github/subhamsarangi/ml/blob/master/07.%20Clustering/1.%20k%20-Means%20clustering.ipynb)
