@@ -25,7 +25,7 @@ ___
 - ## Support Vector Machine
 1. [Support Vector Machine #1](https://nbviewer.jupyter.org/github/subhamsarangi/ml/blob/master/05.%20Support%20Vector%20Machine/1.1%20Support%20Vector%20Machine.ipynb)
 2. [Support Vector Machine #2](https://nbviewer.jupyter.org/github/subhamsarangi/ml/blob/master/05.%20Support%20Vector%20Machine/1.2%20Support%20Vector%20Machine.ipynb)
-3. [Support Vector Machine #3](https://nbviewer.jupyter.org/github/subhamsarangi/ml/blob/master/05.%20Support%20Vector%20Machine/1.3%20Support%20Vector%20Machine.ipynb)
+3. [Support Vector Machine #3](https://nbviewer.jupyter.org/github/subhamsarangi/ml/blob/master/05.%20Support%20Vector%20Machine/1.3%20SVM%20from%20scratch.ipynb)
 - ## Clustering
 1. [k-Means Clustering](https://nbviewer.jupyter.org/github/subhamsarangi/ml/blob/master/07.%20Clustering/1.%20k%20-Means%20clustering.ipynb)
 
